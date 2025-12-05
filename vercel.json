@@ -1,0 +1,6 @@
+{
+    "buildCommand": "corepack prepare pnpm@latest --activate && pnpm install && pnpm build",
+    "installCommand": "corepack prepare pnpm@latest --activate && pnpm install",
+    "framework": null
+  }
+  
